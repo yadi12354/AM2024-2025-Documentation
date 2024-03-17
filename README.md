@@ -1,16 +1,17 @@
-# Title (Year + What the project is)
+# 2024-2025 Summer Projects
 
-Brief description __TLDR__
+This repo serves as documentation for summer projects. The README.md has a short summary of each goal. This is also useful due to version control features.  __This is documentation with version control for summer projects__
 
 
-## Dependencies (Optional)
-- 
+## Dependencies 
+- FTC SDK Version: 9.0.1
+- FTC Dashboard
 
-## Goal 1
+## April tag driver enhancment
 Description
 ![image](imgURLHere) (Optional)
 
-## Goal 2
+## positional lock in tele-op
 Description
 ![image](imgURLHere) (Optional)
 
@@ -18,4 +19,4 @@ Description
 Description
 ![image](imgURLHere) (Optional)
 
-Check out the [Wiki](wikiURLHere) for more information.
+Check out the [Wiki](https://github.com/yadi12354/AM2024-2025-Documentation/wiki) for more information.
